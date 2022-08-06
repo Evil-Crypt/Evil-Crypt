@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby" />
-  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" />
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Linux_Mint-black?style=flat-square&logo=linux-mint" />
   <img src="https://img.shields.io/badge/-Perl-black?style=flat-square&logo=perl" />
   <img src="https://img.shields.io/badge/-Shell-black?style=flat-square&logo=shell" />
@@ -30,28 +30,28 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ItsMeHafz"><img src="https://github-readme-stats.vercel.app/api?username=ItsMeHafz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/Evil-Crypt"><img src="https://github-readme-stats.vercel.app/api?username=Evil-Crypt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ItsMeHafz"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItsMeHafz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/Evil-Crypt"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Evil-Crypt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /><a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Evil-Crypt&theme=juicyfresh" /><a>
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsMeHafz" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evil-Crypt" />
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/itsmehafz_"><img src="https://img.shields.io/badge/Instagram-Follow me-ff0000?style=for-the-badge&logo=instagram&logoColor=ff0000&link=https://instagram.com/itsmehafz_" /></a>
+  <a href="https://instagram.com/iamhafz"><img src="https://img.shields.io/badge/Instagram-Follow me-ff0000?style=for-the-badge&logo=instagram&logoColor=ff0000&link=https://instagram.com/iamhafz" /></a>
   <a name=hendra759&label=VIEWS&style=flat-square&color=purple" />
     <a href="https://wa.me/6282126046864"><img src="https://img.shields.io/badge/WhatsApp-contact me-ff0000?style=for-the-badge&logo=whatsapp&logoColor=ff0000&link=https://wa.me/6282126046864" /></a>
   <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
 <!--
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsMeHafz&repo=base-selfbot&theme=auto)](https://github.com/ItsMeHafz/base-selfbot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Evil-Crypt&repo=wabot-md&theme=auto)](https://github.com/ItsMeHafz/base-selfbot)
 -->
 
 ---
